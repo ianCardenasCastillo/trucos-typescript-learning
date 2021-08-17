@@ -27,6 +27,9 @@
     ]
   },
   "projects": {
+    "models": {
+      "tags": []
+    },
     "my-angular-app": {
       "tags": []
     },
