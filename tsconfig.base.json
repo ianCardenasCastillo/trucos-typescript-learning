@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@trucos/models": ["libs/models/src/index.ts"],
+      "@trucos/interfaces": ["libs/interfaces/src/index.ts"],
       "@trucos/utils": ["libs/utils/src/index.ts"]
     }
   },
